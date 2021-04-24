@@ -1,0 +1,14 @@
+
+h1 {
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 40px;
+    color: var(--color-first);
+    text-shadow: 4px 4px 0 var(--color-black-first);
+}
+
+h2 {
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 20px;
+    color: var(--color-first);
+    text-shadow: 4px 4px 0 var(--color-black-first);
+}
