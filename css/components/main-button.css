@@ -13,3 +13,7 @@
 .main-button:hover {
     transform: scale(1.2);
 }
+
+.main-button.-full {
+    width: 80%;
+}
